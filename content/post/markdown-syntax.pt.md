@@ -17,7 +17,8 @@ categories = [
 ]
 series = ["Guia de Temas"]
 aliases = ["migrar-de-jekyl"]
-thumbnail = "images/building.png"
+#thumbnail = "images/building.png"
+thumbnail = "https://picsum.photos/id/1027/300/300"
 +++
 
 **Este artigo oferece um exemplo básico de uma tradução em Português. O restante conteúdo não foi traduzido.**

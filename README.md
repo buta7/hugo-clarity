@@ -39,7 +39,7 @@ rm -fr .git/modules/clarity
 
 ```shell
 cp -p themes/clarity/exampleSite/config.toml .
-cp -pr themes/clarity/exampleSite/{content,data} .
+cp -pr themes/clarity/exampleSite/{content,static} .
 ```
 
 ## Link

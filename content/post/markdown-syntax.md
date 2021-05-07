@@ -17,7 +17,8 @@ categories = [
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
-thumbnail = "images/building.png"
+#thumbnail = "images/building.png"
+thumbnail = "https://picsum.photos/id/1026/300/300"
 +++
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
